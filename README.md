@@ -2,6 +2,8 @@
 
 Сам курс: [dlcourse.ai](http://dlcourse.ai).
 
+YouTube playlists: https://www.youtube.com/channel/UCQj_dwbIydi588xrfjWSL5g/playlists
+
 ## Задания
 
 Задания расположены в `assignments`.
